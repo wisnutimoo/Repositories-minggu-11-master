@@ -1,2 +1,2 @@
-# Repositories-minggu-11-master
- 
+# Repositories-minggu-11
+Codeigniter get data with AJAX
